@@ -1,4 +1,4 @@
-# Portifolio de Data Science
+# Portfolio de Data Science
 Conjunto de projetos realizados na área de Ciência de Dados e Machine Learning
 
 Os projetos foram realizados em sua maioria em  Python e os arquivos estão no formato .py ou no formato de notebook. Eles estão divididos em sub-categorias para que seja mais fácil o acesso. A seguintes sub-categorias são:
