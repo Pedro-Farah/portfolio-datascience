@@ -16,7 +16,7 @@ Dentro das categorias Machine Learning e Deep Learning, estão projetos de anál
 
 ### Machine Learning
 
-* Previsão de funcionários que deixarão a empresa: O principal objetivo do projeto era, a partir de uma base histórica do registros dos funcionários de uma empresa, construir um modelo classificador para separar os funcionários em duas classes:
+* [Previsão de funcionários que deixarão a empresa](https://nbviewer.jupyter.org/github/Pedro-Farah/portfolio-datascience/blob/main/funcionarios/DepartamentoRH.ipynb): O principal objetivo do projeto era, a partir de uma base histórica do registros dos funcionários de uma empresa, construir um modelo classificador para separar os funcionários em duas classes:
 Funcionários que provavelmente deixariam a empresa e Funcionários que continuariam na empresa.
 * Clusterização de grupos de clientes de um banco: O objetivo desse projeto era fazer a clusterização dos clientes de um banco em determinados grupos para que fosse possível enviar promoções personalizadas para cada grupo.
 * Classificação dos sentimentos dos clientes em relação a Amazon Alexa: A partir de uma base de dados textual com reviews de clientes sobre a linha de produtos da Amazon Alexa, foi possível fazer um processamento que permitiu a análise e classificação das reviews como positivas ou negativas a partir do algortimo Naive Bayes.
