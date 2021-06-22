@@ -1,7 +1,9 @@
 # Portfolio de Data Science
-Conjunto de projetos realizados na área de Ciência de Dados e Machine Learning
+[!/C:\Users\Pedro\Desktop\ESTUDO\CURSO_DEPLOY_MACHINE_LEARNING]
+Sou estudante de Engenharia de Controle e Automação e gosto muito de projetos na área de Machine e Deep Learning. Na faculdade, tive o primeiro contato com a área através da disciplina de Reconhecimento de Padrões, lecionada em Matlab. Depois disso, tive a oportunidade de participar de um  projeto voltado para Inteligência Computacional com a classificação de emoções a partir de dados de EEG, onde foram utilizados Python e Matlab predominantemente. A partir daí, relizei projetos pessoais e cursos de R, SQL, Excel e Power BI. Acredito ter uma habilidade mais avançada em Python do que nas outras tecnologias citadas. Neste portfólio estão alguns dos projetos que considero mais interessantes e variados que pude fazer em cursos, competições, processos seletivos ou para fins pessoais. 
 
-Os projetos foram realizados em sua maioria em  Python e os arquivos estão no formato .py ou no formato de notebook. Eles estão divididos em sub-categorias para que seja mais fácil o acesso. A seguintes sub-categorias são:
+
+Os projetos foram realizados em sua maioria em  Python e os arquivos estão no formato .py ou no formato de notebook. Abaixo,eles estão divididos em sub-categorias para que seja mais fácil o acompanhamento. A seguintes sub-categorias são:
 
 * Machine Learning
 * Deep Learning
