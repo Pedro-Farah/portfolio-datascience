@@ -37,3 +37,8 @@ Funcionários que provavelmente deixariam a empresa e Funcionários que continua
 * [Previsão do preço das ações da Petrobrás](https://github.com/Pedro-Farah/portfolio-datascience/tree/main/petrobras): Utilização de uma base de dados histórica e Redes Neurais Recorrentes para a previsão do preço de abertura das ações da Petrobrás. 
 * [Classificação de digítos numéricos por imagens](https://github.com/Pedro-Farah/portfolio-datascience/tree/main/digitos_numericos): Utilização de Redes Neurais Convolucionais para a classificação de imagens de dígitos numéricos escritos a mão. 
 
+
+### Visualização e Análise
+
+* Análise de gastos de uma operadora de plano de saúde: Utilização de uma base de dados com registros contendo informações sobre os usuários de um plano de saúde no Brasil. Foi realizada uma limpeza na base em sequência, gerado um dashboard utilizando a ferramenta Microsofot Power BI para visualizar e obter informações úteis sobre os gastos  por região do Brasil, idade dos pacientes, gênero dos pacientes e Índice de Massa Corpórea. 
+
