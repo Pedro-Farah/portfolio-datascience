@@ -41,5 +41,5 @@ Funcionários que provavelmente deixariam a empresa e Funcionários que continua
 ### Visualização e Análise
 
 * [Análise de gastos de uma operadora de plano de saúde](https://github.com/Pedro-Farah/portfolio-datascience/tree/main/plano_saude): Utilização de uma base de dados com registros contendo informações sobre os usuários de um plano de saúde no Brasil. Foi realizada uma limpeza na base em sequência, gerado um dashboard utilizando a ferramenta Microsofot Power BI para visualizar e obter informações úteis sobre os gastos  por região do Brasil, idade dos pacientes, gênero dos pacientes e Índice de Massa Corpórea. 
-* Análise de dados de um site de comércio com Google Analytics e Power BI: Os dados utilizados para a geração desse dashboard foram obtidos através do Google Analytics de um site comercial de uma empresa. Foi possível gerar informações como o faturamento por dia, as fontes de acesso, o tempo por dia no site etc. 
+* [Análise de dados de um site de comércio com Google Analytics e Power BI](https://github.com/Pedro-Farah/portfolio-datascience/tree/main/analise_site): Os dados utilizados para a geração desse dashboard foram obtidos através do Google Analytics de um site comercial de uma empresa. Foi possível gerar informações como o faturamento por dia, as fontes de acesso, o tempo por dia no site etc. 
 
