@@ -26,7 +26,7 @@ Dentro das categorias Machine Learning e Deep Learning, estão projetos de anál
 Funcionários que provavelmente deixariam a empresa e Funcionários que continuariam na empresa.
 * [Clusterização de grupos de clientes de um banco](https://nbviewer.jupyter.org/github/Pedro-Farah/portfolio-datascience/blob/main/clusteriza%C3%A7%C3%A3o_clientes/DepartamentoMarketing.ipynb): O objetivo desse projeto era fazer a clusterização dos clientes de um banco em determinados grupos para que fosse possível enviar promoções personalizadas para cada grupo.
 * [Classificação dos sentimentos dos clientes em relação a Amazon Alexa](https://nbviewer.jupyter.org/github/Pedro-Farah/portfolio-datascience/blob/main/amazon_alexa/DepartamentoNLP.ipynb): A partir de uma base de dados textual com reviews de clientes sobre a linha de produtos da Amazon Alexa, foi possível fazer um processamento que permitiu a análise e classificação das reviews como positivas ou negativas a partir do algortimo Naive Bayes.
-* Previsão do lucro de uma empresa ao abrir novas filiais em outros bairros: A partir de uma base de dados fictícia de uma empresa atuando no Rio de Janeiro, com informações histórica do faturamento gerado nos bairros, foi possível a criação de um modelo regressor para a previsão do faturamento em novos bairros.
+* [Previsão do lucro de uma empresa ao abrir novas filiais em outros bairros](https://nbviewer.jupyter.org/github/Pedro-Farah/portfolio-datascience/blob/main/previsao_faturamento/Desafio_previsao_faturamento.ipynb): A partir de uma base de dados fictícia de uma empresa atuando no Rio de Janeiro, com informações histórica do faturamento gerado nos bairros, foi possível a criação de um modelo regressor para a previsão do faturamento em novos bairros.
 
 
 ### Deep Learning
