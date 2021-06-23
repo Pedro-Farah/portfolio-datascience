@@ -40,5 +40,5 @@ Funcionários que provavelmente deixariam a empresa e Funcionários que continua
 
 ### Visualização e Análise
 
-* Análise de gastos de uma operadora de plano de saúde: Utilização de uma base de dados com registros contendo informações sobre os usuários de um plano de saúde no Brasil. Foi realizada uma limpeza na base em sequência, gerado um dashboard utilizando a ferramenta Microsofot Power BI para visualizar e obter informações úteis sobre os gastos  por região do Brasil, idade dos pacientes, gênero dos pacientes e Índice de Massa Corpórea. 
+* [Análise de gastos de uma operadora de plano de saúde](https://github.com/Pedro-Farah/portfolio-datascience/tree/main/plano_saude): Utilização de uma base de dados com registros contendo informações sobre os usuários de um plano de saúde no Brasil. Foi realizada uma limpeza na base em sequência, gerado um dashboard utilizando a ferramenta Microsofot Power BI para visualizar e obter informações úteis sobre os gastos  por região do Brasil, idade dos pacientes, gênero dos pacientes e Índice de Massa Corpórea. 
 
