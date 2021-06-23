@@ -32,7 +32,7 @@ Funcionários que provavelmente deixariam a empresa e Funcionários que continua
 ### Deep Learning
 
 * [Classificação de doenças pulmonares por imagens](https://nbviewer.jupyter.org/github/Pedro-Farah/portfolio-datascience/blob/main/doencas_pulmonares/DepartamentoMedico.ipynb): Utilização de Redes Neurais Convolucionais para o processamento de imagens e classificação em 4 tipos diferentes de doenças respiratórias (Healthy (Saudável),  Covid 19, Pneumonia Bacteriana, Pneumonia Viral)
-* Detecção de Falhas na Linha de Produção através de Segmentação de Imagens: Neste projeto foram utilizados dois modelos de Redes Neurais. O primeiro modelo foi resposável por detectar se havia defeitos nas peças (ResNet). Tendo sido detectado o defeito, outro modelo foi usado para segmentar a imagem e localizar o defeito (ResUNet). 
+* [Detecção de Falhas na Linha de Produção através de Segmentação de Imagens](https://nbviewer.jupyter.org/github/Pedro-Farah/portfolio-datascience/blob/main/defeitos_pecas/DepartamentoManutencao.ipynb): Neste projeto foram utilizados dois modelos de Redes Neurais. O primeiro modelo foi resposável por detectar se havia defeitos nas peças (ResNet). Tendo sido detectado o defeito, outro modelo foi usado para segmentar a imagem e localizar o defeito (ResUNet). 
 * Previsão do preço das ações da Petrobrás: Utilização de uma base de dados histórica e Redes Neurais Recorrentes para a previsão do preço de abertura das ações da Petrobrás. 
 * Classificação de digítos numéricos por imagens: Utilização de Redes Neurais Convolucionais para a classificação de imagens de dígitos numéricos escritos a mão. 
 
