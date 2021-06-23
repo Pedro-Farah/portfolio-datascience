@@ -4,13 +4,14 @@
 
 ---
 
-Sou estudante de Engenharia de Controle e Automação e gosto muito de projetos na área de Machine e Deep Learning. Na faculdade, tive o primeiro contato com a área através da disciplina de Reconhecimento de Padrões, lecionada em Matlab. Depois disso, tive a oportunidade de participar de um  projeto voltado para Inteligência Computacional com a classificação de emoções a partir de dados de EEG, onde foram utilizados Python e Matlab predominantemente. A partir daí, relizei projetos pessoais e cursos de R, SQL, Excel e Power BI. Acredito ter uma habilidade mais avançada em Python do que nas outras tecnologias citadas. Neste portfólio estão alguns dos projetos que considero mais interessantes e variados que pude fazer em cursos, competições, processos seletivos ou para fins pessoais. 
+Sou estudante de Engenharia de Controle e Automação e gosto muito de projetos na área de Machine e Deep Learning. Na faculdade, tive o primeiro contato com a área através da disciplina de Reconhecimento de Padrões, lecionada em Matlab. Depois disso, tive a oportunidade de participar de um  projeto voltado para Inteligência Computacional com a classificação de emoções a partir de dados de EEG, onde foram utilizados Python e Matlab predominantemente. A partir daí, relizei projetos pessoais e cursos de R, SQL, Excel e Power BI. Acredito ter uma habilidade mais avançada em Python do que nas outras tecnologias citadas. Neste portfólio estão alguns dos projetos que considero mais interessantes e variados que pude fazer em cursos (faço referência e agradecimento especial aos cursos dos professores Jones Granatyr do portal IA Expert Academy e Daniel Mendes do portal Data Science Academy), competições, processos seletivos ou para fins pessoais. 
 
 
 Os projetos foram realizados em sua maioria em  Python e os arquivos estão no formato .py ou no formato de notebook. Abaixo,eles estão divididos em sub-categorias para que seja mais fácil o acompanhamento. A seguintes sub-categorias são:
 
 * Machine Learning
 * Deep Learning
+* Visualização e Análise 
 
 
 Dentro das categorias Machine Learning e Deep Learning, estão projetos de análise e visualização de dados, classificação binária, multiclasse, regressão, processamento de linguagem natural, séries temporais, processamento de imagens etc. Em Machine Learning estão modelos construídos com algoritmos que não sejam as Redes Neurais. Na pasta Deep Learning estão somente modelos de Redes Neurais. 
