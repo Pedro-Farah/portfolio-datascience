@@ -28,5 +28,5 @@ Na construção do modelo em si, foram utilizados os seguintes algoritmos:
 |---------------------|----------|----------|--------|----------|
 | Regressão Logística |   0.86   |   0.79   |  0.62  |   0.70   |
 | Random Forest       |   0.84   |   0.79   |  0.56  |   0.56   |
-| Redes Neurais       |          |          |        |          |
+| Redes Neurais       |   0.85   |   0.75   |  0.70  |   0.71   |
 
